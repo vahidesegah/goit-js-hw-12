@@ -254,7 +254,7 @@ const ImageGallery = () => {
 
       {!showLoadMore && images.length > 0 && (
         <p className="text-center mt-8 text-gray-600">
-          We're sorry, but you've reached the end of search results
+          We're sorry, but you've reached the end of results
         </p>
       )}
 
